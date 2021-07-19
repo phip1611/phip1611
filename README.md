@@ -1,8 +1,8 @@
 Hi there,
 I'm Philipp (or `@phip1611`) and interested in Open Source development. I'm familiar with
-the whole programming spectrum from low level development (OS-development, Microcontrollers)
-to distributed small enterprise web applications (Angular, NodeJS, Spring). 
-I also have a few Dev-Ops-skills (Docker).
+the whole programming spectrum from low level development (`OS`, `µC`)
+to "small/medium" distributed enterprise web applications. 
+I also have a few Dev-Ops-skills, like using `Docker`, or initializing Linux servers.
 
 **I see my future in low level development and transforming ugly, undocumented code to 
 nice, well documented and easy to use code.** 
