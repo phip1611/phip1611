@@ -1,8 +1,6 @@
-# About Me
-
 Hi there,
 I'm Philipp (or `@phip1611`) and interested in Open Source development. I'm familiar with
-the whole development spectrum from low level development (OS-development, Microcontrollers)
+the whole programming spectrum from low level development (OS-development, Microcontrollers)
 to distributed small enterprise web applications (Angular, NodeJS, Spring). 
 I also have a few Dev-Ops-skills (Docker).
 
@@ -20,7 +18,7 @@ Languages and frameworks I used to create projects:
 - `Rust`, `C/C++`, `Java / Spring`, `Javascript / Typescirpt / Angular`, `HTML & CSS`, `Assembly`, `PHP`, `Bash` 
 
 Tools I used to build projects:
-- `Shell scripts`, `Maven`, `NodeJS / npm / yarn`, `Make / Makefiles`, `CMake`
+- `Cargo`, `Shell scripts`, `Maven`, `NodeJS / npm / yarn`, `Make / Makefiles`, `CMake`
 
 Favorite IDE:
 - products from Jetbrains
