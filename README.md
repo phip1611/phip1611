@@ -7,7 +7,7 @@ I also have a few Dev-Ops-skills, like using `Docker`, or initializing Linux ser
 **I see my future in low level development and transforming ugly, undocumented code to 
 nice, well documented and easy to use code.** 
 
-Currently still a student and working for **Cyberus Technology GmbH**.
+Currently (early 2022) still a student and working for **Cyberus Technology GmbH**.
 
 [![phip1611's GitHub stats](https://github-readme-stats.vercel.app/api?username=phip1611&show_icons=true&count_private=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats "My Github stats")
 
