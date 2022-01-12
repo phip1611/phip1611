@@ -14,14 +14,14 @@ Currently still a student and working for **Cyberus Technology GmbH**.
 
 [![phip1611's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phip1611&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats "My Github stats")
 
-Languages and frameworks I used to create projects:
-- `Rust`, `C/C++`, `Java / Spring`, `Javascript / Typescirpt / Angular`, `HTML & CSS`, `Assembly`, `PHP`, `Bash` 
+Languages and frameworks I use(d) to create projects:
+- `Rust`, `C/C++`, `Java / Spring`, `Javascript / Typescript / Angular`, `HTML & CSS`, `Assembly`, `PHP`, `Bash` 
 
-Tools I used to build projects:
+Tools I use(d) to build projects:
 - `Cargo`, `Shell scripts`, `Maven`, `NodeJS / npm / yarn`, `Make / Makefiles`, `CMake`
 
 Favorite IDE:
-- products from Jetbrains
+- products from Jetbrains (CLion, IntelliJ)
 - small in-terminal editor: micro (https://github.com/zyedidia/micro)
 
 
