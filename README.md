@@ -30,7 +30,7 @@ Languages and frameworks I use(d) to create projects:
 - `Rust`, `C/C++`, `Assembly`
 - `Java`, `Spring Framework`
 - `PHP`, `Python`
-- `Javascript`, `Typescript, `Angular`, `HTML`, `CSS`
+- `Javascript`, `Typescript`, `Angular`, `HTML`, `CSS`
 - `Bash`, `ZX`
 
 This includes the typical tooling comming with the corresponding environment, such as Cargo, Maven,
