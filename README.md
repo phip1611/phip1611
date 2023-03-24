@@ -25,8 +25,6 @@ In this process, I strive to transform ugly undocumented code to nice, well docu
 - 🤓 Working at [Cyberus Technology](https://www.cyberus-technology.de/) in x86 Virtualization space primarily on a VMM in Rust
 
 ### Known Languages and Frameworks (Selection)
-
-Languages and frameworks I use(d) to create projects:
 - `Rust`, `C/C++`, `Assembly`
 - `Java`, `Spring Framework`
 - `PHP`, `Python`
@@ -36,7 +34,7 @@ Languages and frameworks I use(d) to create projects:
 This includes the typical tooling comming with the corresponding environment, such as Cargo, Maven,
 NodeJS, Yarn, GNU Make, CMake, and more.
 
-Favorite IDE/Editor:
+### Favorite IDE/Editor
 - products from Jetbrains (CLion, IntelliJ)
 - [micro](https://github.com/zyedidia/micro) (for the terminal)
 
