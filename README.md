@@ -55,7 +55,7 @@ UNIX-philosophy.
 - [micro](https://github.com/zyedidia/micro) (for the terminal)
 
 ### NixOS Configs
-Feel free to check out my public [NixOS configs and dotfiles](<https://github.com/phip1611/nixos-config)!
+Feel free to check out my public [NixOS configs and dotfiles](https://github.com/phip1611/nixos-configs)!
 
 \
 *This README benefits from a service provided by https://github.com/anuraghazra/github-readme-stats - thanks to the original author(s)*.
