@@ -17,7 +17,7 @@ refactorings, and developer-friendly workflows. Reproducible and easy-to-use
 build systems and test setups are an essential step in that direction.
 
 
-### Facts & Interest  and current Employer
+### Facts
 
 - 🎓 Alma mater: [TU Dresden](https://tu-dresden.de/) (2015 - 2022): Diplominformatiker (equivalent to a Master's degree)
 - 🤓 Employer: Working at [Cyberus Technology](https://www.cyberus-technology.de/) as Virtualization Engineer \
