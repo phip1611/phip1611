@@ -22,7 +22,7 @@ build systems and test setups are an essential step in that direction.
 - 🎓 Alma mater: [TU Dresden](https://tu-dresden.de/) (2015 - 2022): Diplominformatiker (equivalent to a Master's degree)
 - 🤓 Employer: Working at [Cyberus Technology](https://www.cyberus-technology.de/) as Virtualization Engineer \
   → Main focus: Virtualization, Linux/KVM, Cloud Hypervisor, Rust, x86, Nix/NixOS
-- Nix and NixOS-enthusiast ([My public NixOS configs](https://github.com/phip1611/nixos-configs)!)
+- Nix and NixOS-enthusiast ([My public NixOS configs](https://github.com/phip1611/nixos-configs))
 
 ### GitHub Stats
 
