@@ -1,21 +1,25 @@
 **Writing code, maintaining open-source software, solving problems. Also: rock concerts and traveling the world.**
 
-Hi, I’m Philipp (`@phip1611`) — a passionate software engineer in my twenties.
-I wrote my first lines of code at 14, but things really took off for me in
-2016 during my university years. Since then, I’ve gained several years of
-experience as a student software engineer, worked on numerous hobby and
-university projects, and transitioned into the professional world.
+I'm Philipp Schuster (@phip1611), a software engineer focused on low-level
+systems programming, x86 virtualization, kernels, device drivers, and Rust.
+My current work centers on KVM-based virtualization and
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor).
+Further, I love reproducible systems using Nix and NixOS!
 
-I actively attend and [organize meetups](https://ukvly.org/), go to
-conferences, engage with the community on GitHub and Reddit, and post about
-things [on my blog](https://phip1611.de/).
+[On my blog](https://phip1611.de/), I write about systems programming,
+virtualization, Rust, and related engineering topics, while I also attend and
+speak at conferences and meetups. Lastly, I'm happily organizing the
+[_Systems Meetup_](https://ukvly.org/) in Dresden.
 
-My main areas of interest are low-level programming, kernels, device drivers,
-and virtualization. On the methodology side, I focus on improving developer
-productivity — through better tooling, clear documentation, thoughtful
-refactorings, and developer-friendly workflows. Reproducible and easy-to-use
-build systems and test setups are an essential step in that direction.
+I especially care about developer productivity: clean abstractions, clear
+documentation, reproducible builds, reliable tests, thoughtful refactorings, and
+tooling that makes complex systems easier to work on.
 
+My background combines 5+ years of student engineering experience in web and 
+backend systems with 5+ years focused on low-level systems engineering. This 
+gave me a broad understanding of the software stack, from application architecture
+and design patterns down to individual bits, hardware behavior, and virtualization 
+internals.
 
 ### Facts
 
