@@ -30,9 +30,9 @@ internals.
 
 ### GitHub Stats
 
-[![phip1611's GitHub stats](https://github-readme-stats.vercel.app/api?username=phip1611&show_icons=true&count_private=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats "My Github stats")
-[![phip1611's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phip1611&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats "My Github stats")
+[![phip1611's GitHub stats](https://github-stats-extended.vercel.app/api?username=phip1611&show_icons=true&count_private=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats "My Github stats")
+[![phip1611's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=phip1611&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats "My Github stats")
 
 
 \
-*This README benefits from a service provided by https://github.com/anuraghazra/github-readme-stats - thanks to the original author(s)*.
+*This README benefits from a service provided by https://github.com/stats-organization/github-stats-extended - thanks to the original author(s)*.
